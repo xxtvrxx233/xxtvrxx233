@@ -1,7 +1,10 @@
 ### Hi there 👋
+I'm **xxtvrxx233** ~~𝕏𝕏<b>TVR𝕏𝕏233~~
 
-I'm **xxtvrxx233**
-
+<div>
+     <a href="https://github.com/xxtvrxx233"><img src="/xxtvrxx233.png" width="350" height="85" alt="xxtvrxx233.png" style="border: 2px solid cyan; border-radius: 50%"></a>
+   </div>
+   
 - :point_right: An ordinary person
 
 - 📚 Senior high school student
@@ -28,7 +31,7 @@ I'm **xxtvrxx233**
 [![Android](https://img.shields.io/badge/ColorOS%2012-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.coloros.com/feature/coloros12)
 [![PE13](https://img.shields.io/badge/Pixel%20Experience%2013-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13/)
 [![PE12](https://img.shields.io/badge/Pixel%20Experience%2012.1-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
-[![WSA](https://img.shields.io/badge/Windoes%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13/)
+[![WSA](https://img.shields.io/badge/Windoes%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
  
 <!--
 **xxtvrxx233/xxtvrxx233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
