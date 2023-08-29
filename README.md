@@ -28,7 +28,7 @@ I'm **xxtvrxx233** ~~<b>𝕏𝕏<b>TVR𝕏𝕏233~~
  [![Windows](https://img.shields.io/badge/Windows%2011%2022H2-00BBFF?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows/windows-11)
 
 - #### Linux
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04LTS-FF5733?style=for-the-badge&logo=ubuntu&logoColor=F8F8FF)](https://www.debian.org/releases/sid/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04.6LTS-FF5733?style=for-the-badge&logo=ubuntu&logoColor=F8F8FF)](https://www.releases.ubuntu.com/focal/)
 
 - #### Android
 [![Android](https://img.shields.io/badge/ColorOS%2012-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.coloros.com/feature/coloros12)
