@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **xxtvrxx233** ~~𝕏𝕏<b>TVR𝕏𝕏233~~
+I'm **xxtvrxx233** ~~<b>𝕏𝕏<b>TVR𝕏𝕏233~~
 
 <div>
      <a href="https://github.com/xxtvrxx233"><img src="/xxtvrxx233.png" width="auto" height="auto"                                              alt="xxtvrxx233.png" style="border: 2px solid cyan; border-radius: 50%"></a>
