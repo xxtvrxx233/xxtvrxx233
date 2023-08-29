@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm xxtvrxx233
+
+### Devices
+[![OPPO R11s](https://img.shields.io/badge/-OPPO%20R11s-black?style=for-the-badge)](https://www.oppo.com/cn/smartphones/series-r/r11s/)
 <!--
 **xxtvrxx233/xxtvrxx233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
