@@ -3,8 +3,11 @@
 I'm xxtvrxx233
 
 ### Devices
-[![OPPO R11s](https://img.shields.io/badge/-OPPO%20R11s-black?style=for-the-badge)](https://www.oppo.com/cn/smartphones/series-r/r11s/)
-[![Realme Q3 Pro Play](https://img.shields.io/badge/Realme%20Q3%20Pro-Special-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=ED9121)](https://www.realme.com/realme-q3-pro-special/)
+[![OPPO R11s](https://img.shields.io/badge/-OPPO%20R11s-darkgreen?style=for-the-badge)](https://m.gsmarena.com/oppo_r11s-8911.php)
+[![Realme Q3 Pro Play](https://img.shields.io/badge/Realme%20Q3%20Pro-Special-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-q3-pro-special/specs)
+[![Huawei MatePad Pro 10.8](https://img.shields.io/badge/Huawei%20MatePad-Pro-DCDCDC?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://m.vmall.com/product/10086452383776.html)
+[![Huawei MediaPad M6](https://img.shields.io/badge/Huawei%20MediaPad%206-B22222?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://m.vmall.com/product/10086452383776.html)
+
 <!--
 **xxtvrxx233/xxtvrxx233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
