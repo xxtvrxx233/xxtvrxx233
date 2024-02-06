@@ -31,7 +31,7 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04.6LTS-FF5733?style=for-the-badge&logo=ubuntu&logoColor=F8F8FF)](https://www.releases.ubuntu.com/focal/)
 
 - #### Android
-[![Android](https://img.shields.io/badge/ColorOS%2012-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.coloros.com/feature/coloros12)
+[![Android](https://img.shields.io/badge/ColorOS%2013-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.coloros.com/feature/coloros13)
 [![PE13](https://img.shields.io/badge/Pixel%20Experience%2013-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13/)
 [![PE12](https://img.shields.io/badge/Pixel%20Experience%2012.1-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 [![WSA](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
