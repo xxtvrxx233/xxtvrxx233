@@ -33,10 +33,11 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04.6LTS-FF5733?style=for-the-badge&logo=ubuntu&logoColor=F8F8FF)](https://www.releases.ubuntu.com/focal/)
 
 - #### Android
-[![Android](https://img.shields.io/badge/ColorOS%2014.1-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=3360CC)](https://www.coloros.com/feature/coloros13)
+[![C15](https://img.shields.io/badge/ColorOS%2015-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/feature/coloros15)
+[![C13.1](https://img.shields.io/badge/ColorOS%2013.1-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=006400)](https://www.coloros.com/feature/coloros13)
 [![PE13](https://img.shields.io/badge/Pixel%20Experience%2013-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13/)
 [![PE12](https://img.shields.io/badge/Pixel%20Experience%2012.1-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
-[![WSA](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=Microsoft&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
+[![WSA](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
  
 <!--
 **xxtvrxx233/xxtvrxx233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
