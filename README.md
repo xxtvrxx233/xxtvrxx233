@@ -14,18 +14,16 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 ### Devices
 - #### Phones
 [![OnePlus 13](https://img.shields.io/badge/OnePlus%2013-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/13)
-
 [![Realme GT Explorer Matser Edition](https://img.shields.io/badge/Realme%20GT%20Exp.%20Master-Edition-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-gt-riven-a/specs)
 [![Realme Q3 Pro Play](https://img.shields.io/badge/Realme%20Q3%20Pro-Special-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-q3-pro-special/specs)
-[![OPPO R11s](https://img.shields.io/badge/-OPPO%20R11s-darkgreen?style=for-the-badge)](https://m.gsmarena.com/oppo_r11s-8911.php)
 [![OPPO R11](https://img.shields.io/badge/-OPPO%20R11-darkgreen?style=for-the-badge)](https://www.gsmarena.com/oppo_r11-8644.php)
-
+[![OPPO R11s](https://img.shields.io/badge/-OPPO%20R11s-darkgreen?style=for-the-badge)](https://m.gsmarena.com/oppo_r11s-8911.php)
 - #### Tablets
 [![Huawei MatePad Pro 10.8](https://img.shields.io/badge/Huawei%20MatePad%20Pro-10.8-DCDCDC?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://m.vmall.com/product/10086452383776.html)
 [![iPad 6](https://img.shields.io/badge/ipad%206-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/)
 - #### Wearable device
-[![TicWatch Pro X](https://img.shields.io/badge/TicWatch%20Pro%20x-DCDCDC?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)](https://www.ticstore.com/products/prox)
-
+[![TicWatch Pro X](https://img.shields.io/badge/TicWatch%20Pro%20x-000000?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)](https://www.ticstore.com/products/prox)
+[![OnePlus Buds 3](https://img.shields.io/badge/OnePlus%20Buds%203-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/oneplus-buds-3)
 ### Operating system
 - #### Windows
  [![Windows](https://img.shields.io/badge/Windows%2011%2024H2-00BBFF?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
