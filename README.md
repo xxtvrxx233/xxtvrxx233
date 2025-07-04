@@ -7,16 +7,18 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
    
 - :point_right: An ordinary person
 
-- 📚 Senior high school student
+- 📚 Undergraduate-to-be
 
 - 😺 Learning C...
 
 ### Devices
 - #### Phones
+[![OnePlus 13](https://img.shields.io/badge/OnePlus%2013-DCDCDC?style=for-the-badge&logo=OnePlus&logoColor=070000&labelColor=FF0000)](https://www.oneplus.com/cn/13)
+
+[![Realme GT Explorer Matser Edition](https://img.shields.io/badge/Realme%20GT%20Exp.%20Master-Edition-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-gt-riven-a/specs)
+[![Realme Q3 Pro Play](https://img.shields.io/badge/Realme%20Q3%20Pro-Special-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-q3-pro-special/specs)
 [![OPPO R11s](https://img.shields.io/badge/-OPPO%20R11s-darkgreen?style=for-the-badge)](https://m.gsmarena.com/oppo_r11s-8911.php)
 [![OPPO R11](https://img.shields.io/badge/-OPPO%20R11-darkgreen?style=for-the-badge)](https://www.gsmarena.com/oppo_r11-8644.php)
-[![Realme GT Explorer Matser Edition](https://img.shields.io/badge/Realme%20GT%20Explorer%20Master-Edition-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-gt-riven-a/specs)
-[![Realme Q3 Pro Play](https://img.shields.io/badge/Realme%20Q3%20Pro-Special-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-q3-pro-special/specs)
 
 - #### Tablets
 [![Huawei MatePad Pro 10.8](https://img.shields.io/badge/Huawei%20MatePad%20Pro-10.8-DCDCDC?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://m.vmall.com/product/10086452383776.html)
@@ -27,16 +29,15 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 
 ### Operating system
 - #### Windows
- [![Windows](https://img.shields.io/badge/Windows%2011%2022H2-00BBFF?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows/windows-11)
+ [![Windows](https://img.shields.io/badge/Windows%2011%2024H2-00BBFF?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
 
 - #### Linux
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04.6LTS-FF5733?style=for-the-badge&logo=ubuntu&logoColor=F8F8FF)](https://www.releases.ubuntu.com/focal/)
+ [![ArchLinux](https://img.shields.io/badge/Arch%20Linux%206.15.4-222628?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://archlinux.org/)
 
 - #### Android
 [![C15](https://img.shields.io/badge/ColorOS%2015-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros15/)
 [![C13.1](https://img.shields.io/badge/ColorOS%2013.1-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=006400)](https://www.coloros.com/feature/coloros13)
-[![PE13](https://img.shields.io/badge/Pixel%20Experience%2013-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13/)
-[![PE12](https://img.shields.io/badge/Pixel%20Experience%2012.1-00C000?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
+[![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=oppod&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
 [![WSA](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
  
 <!--
