@@ -13,7 +13,7 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 
 ### Devices
 - #### Phones
-[![OnePlus 13](https://img.shields.io/badge/OnePlus%2013-DCDCDC?style=for-the-badge&logo=OnePlus&logoColor=070000&labelColor=FF0000)](https://www.oneplus.com/cn/13)
+[![OnePlus 13](https://img.shields.io/badge/OnePlus%2013-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/13)
 
 [![Realme GT Explorer Matser Edition](https://img.shields.io/badge/Realme%20GT%20Exp.%20Master-Edition-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-gt-riven-a/specs)
 [![Realme Q3 Pro Play](https://img.shields.io/badge/Realme%20Q3%20Pro-Special-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-q3-pro-special/specs)
@@ -22,7 +22,6 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 
 - #### Tablets
 [![Huawei MatePad Pro 10.8](https://img.shields.io/badge/Huawei%20MatePad%20Pro-10.8-DCDCDC?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://m.vmall.com/product/10086452383776.html)
-[![Huawei MediaPad M6](https://img.shields.io/badge/Huawei%20MediaPad%206-B22222?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://www.vmall.com/product/10086212903203.html)
 [![iPad 6](https://img.shields.io/badge/ipad%206-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/)
 - #### Wearable device
 [![TicWatch Pro X](https://img.shields.io/badge/TicWatch%20Pro%20x-DCDCDC?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)](https://www.ticstore.com/products/prox)
@@ -35,9 +34,10 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
  [![ArchLinux](https://img.shields.io/badge/Arch%20Linux%206.15.4-222628?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://archlinux.org/)
 
 - #### Android
-[![C15](https://img.shields.io/badge/ColorOS%2015-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros15/)
+[![C15](https://img.shields.io/badge/ColorOS%2015-000000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros15/)
 [![C13.1](https://img.shields.io/badge/ColorOS%2013.1-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=006400)](https://www.coloros.com/feature/coloros13)
-[![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=oppod&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
+[![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
+[![HarmonyOS4.2](https://img.shields.io/badge/HarmonyOS%204.2.0-DCDCDC?style=for-the-badge&logo=HUAWEI&logoColor=FFFFFF&labelColor=B22222)](https://consumer.huawei.com/cn/harmonyos-4)
 [![WSA](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
  
 <!--
