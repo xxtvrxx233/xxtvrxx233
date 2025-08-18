@@ -25,18 +25,20 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 [![TicWatch Pro X](https://img.shields.io/badge/TicWatch%20Pro%20x-000000?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)](https://www.ticstore.com/products/prox)
 [![OnePlus Buds 3](https://img.shields.io/badge/OnePlus%20Buds%203-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/oneplus-buds-3)
 ### Operating system
-- #### Windows
- [![Windows](https://img.shields.io/badge/Windows%2011%2024H2-00BBFF?style=for-the-badge&logo=Windows11&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
 
-- #### Linux
- [![ArchLinux](https://img.shields.io/badge/Arch%20Linux%206.15.4-222628?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://archlinux.org/)
+- #### GNU/Linux
+ [![ArchLinux](https://img.shields.io/badge/Arch%20Linux%20x86_64-222628?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://archlinux.org/)
+
+- #### Windows
+ [![Windows](https://img.shields.io/badge/Windows%2010%20%20Enterprise%20LTSC%202021-00BBFF?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
+
+
 
 - #### Android
 [![C15](https://img.shields.io/badge/ColorOS%2015-000000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros15/)
-[![C13.1](https://img.shields.io/badge/ColorOS%2013.1-3360CC?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=006400)](https://www.coloros.com/feature/coloros13)
 [![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
 [![HarmonyOS4.2](https://img.shields.io/badge/HarmonyOS%204.2.0-DCDCDC?style=for-the-badge&logo=HUAWEI&logoColor=FFFFFF&labelColor=B22222)](https://consumer.huawei.com/cn/harmonyos-4)
-[![WSA](https://img.shields.io/badge/Windows%20Subsystem%20for%20Android-00C000?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00C000)](https://learn.microsoft.com/windows/android/wsa/)
+[![Waydroid](https://img.shields.io/badge/Waydroid-00C000?style=for-the-badge&logo=wayland&logoColor=FFFFFF&labelColor=F38404)](https://waydro.id/)
  
 <!--
 **xxtvrxx233/xxtvrxx233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
