@@ -21,16 +21,24 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 - #### Tablets
 [![Huawei MatePad Pro 10.8](https://img.shields.io/badge/Huawei%20MatePad%20Pro-10.8-DCDCDC?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://m.vmall.com/product/10086452383776.html)
 [![iPad 6](https://img.shields.io/badge/ipad%206-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/)
-- #### Wearable device
+- #### Wearable devices
 [![TicWatch Pro X](https://img.shields.io/badge/TicWatch%20Pro%20x-000000?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)](https://www.ticstore.com/products/prox)
 [![OnePlus Buds 3](https://img.shields.io/badge/OnePlus%20Buds%203-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/oneplus-buds-3)
+
+- #### Laptops
+[![MRCHREVO KUANGSHI X](https://img.shields.io/badge/MECHREVO%20KUANGSHI%20X-000000?style=for-the-badge&logo=mechrevo&logoColor=F8F8FF&labelColor=000000)](https://www.mechrevo.com/indexphone.html)
+[![Lenovo 20078|G470](https://img.shields.io/badge/Lenovo%20G470-000000?style=for-the-badge&logo=lenovo&logoColor=F8F8FF&labelColor=000000)](https://support.lenovo.com/ca/en/products/laptops-and-netbooks/lenovo-g-series-laptops/lenovo-g470-notebook/)
+
 ### Operating system
 
 - #### GNU/Linux
  [![ArchLinux](https://img.shields.io/badge/Arch%20Linux%20x86_64-222628?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://archlinux.org/)
 
 - #### Windows
- [![Windows](https://img.shields.io/badge/Windows%2010%20%20Enterprise%20LTSC%202021-00BBFF?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
+
+[![Windows(MECHREVO)](https://img.shields.io/badge/Windows%2011%20%20Professional%20-00BBFF?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
+[![Windows(lenovo G470)](https://img.shields.io/badge/Windows%2010%20%20Enterprise%20LTSC%202021-00BBFF?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/zh-cn/windows/windows-11)
+
 
 
 
