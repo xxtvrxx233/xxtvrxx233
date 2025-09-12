@@ -26,7 +26,7 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 [![OnePlus Buds 3](https://img.shields.io/badge/OnePlus%20Buds%203-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/oneplus-buds-3)
 
 - #### Laptops
-[![MRCHREVO KUANGSHI X](https://img.shields.io/badge/MECHREVO%20KUANGSHI%20X-000000?style=for-the-badge&logo=mechrevo&logoColor=F8F8FF&labelColor=000000)](https://www.mechrevo.com/indexphone.html)
+[![MRCHREVO KUANGSHI X](https://img.shields.io/badge/MECHREVO%20KUANGSHI%20X-000000?style=for-the-badge&logo=&logoColor=F8F8FF&labelColor=000000)](https://www.mechrevo.com/indexphone.html)
 [![Lenovo 20078|G470](https://img.shields.io/badge/Lenovo%20G470-000000?style=for-the-badge&logo=lenovo&logoColor=F8F8FF&labelColor=000000)](https://support.lenovo.com/ca/en/products/laptops-and-netbooks/lenovo-g-series-laptops/lenovo-g470-notebook/)
 
 ### Operating system
