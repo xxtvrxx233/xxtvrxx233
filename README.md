@@ -6,9 +6,7 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
    </div>
    
 - :point_right: An ordinary person
-
-- 📚 Undergraduate-to-be
-
+- 
 - 😺 Learning C...
 
 ### Devices
