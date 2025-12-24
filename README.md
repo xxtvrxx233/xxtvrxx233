@@ -41,7 +41,7 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 
 
 - #### Android
-[![C15](https://img.shields.io/badge/ColorOS%2015-000000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros15/)
+[![C16](https://img.shields.io/badge/ColorOS%2016-000000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros16/)
 [![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
 [![HarmonyOS4.2](https://img.shields.io/badge/HarmonyOS%204.2.0-DCDCDC?style=for-the-badge&logo=HUAWEI&logoColor=FFFFFF&labelColor=B22222)](https://consumer.huawei.com/cn/harmonyos-4)
 [![Waydroid](https://img.shields.io/badge/Waydroid-00C000?style=for-the-badge&logo=wayland&logoColor=FFFFFF&labelColor=F38404)](https://waydro.id/)
