@@ -47,7 +47,8 @@ port for GT Exp. Master [here](https://sourceforge.net/projects/realme-rmx3366-c
 - #### Android
 [![C16](https://img.shields.io/badge/ColorOS%2016-000000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros16/)
 [![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
-[![HarmonyOS4.2](https://img.shields.io/badge/HarmonyOS%204.2.0-DCDCDC?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=B22222)](https://consumer.huawei.com/cn/harmonyos-4)
+[![HarmonyOS4.2](https://img.shields.io/badge/HarmonyOS%204.2.0-B22222?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=B22222)](https://consumer.huawei.com/cn/harmonyos-4)
+[![kangX](https://img.shields.io/badge/Evolution%20X%2010.5-0060FF?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=0060FF)](https://evolution-x.org/)
 [![Waydroid](https://img.shields.io/badge/Waydroid-F38404?style=for-the-badge&logo=wayland&logoColor=FFFFFF&labelColor=F38404)](https://waydro.id/)
  
 <!--
