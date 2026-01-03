@@ -6,13 +6,17 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
    </div>
    
 - :point_right: An ordinary person
-- 
+- 😵 A noob
 - 😺 Learning C...
+  
+I'm maintaining realme GT Exp. Master<br>
+You can download ColorOS 15/16
+port for GT Exp. Master [here](https://sourceforge.net/projects/realme-rmx3366-cos15-port/files/)
 
 ### Devices
 - #### Phones
 [![OnePlus 13](https://img.shields.io/badge/OnePlus%2013-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/13)
-[![Realme GT Explorer Matser Edition](https://img.shields.io/badge/Realme%20GT%20Exp.%20Master-Edition-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-gt-riven-a/specs)
+[![Realme GT Explorer Matser Edition](https://img.shields.io/badge/Realme%20GT%20Exp.%20Master%20Edition-FFD700?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-gt-riven-a/specs)
 [![Realme Q3 Pro Play](https://img.shields.io/badge/Realme%20Q3%20Pro-Special-ED9121?style=for-the-badge&logo=realme&logoColor=FFFFFF&labelColor=FFD700)](https://www.realme.com/realme-q3-pro-special/specs)
 [![OPPO R11](https://img.shields.io/badge/-OPPO%20R11-darkgreen?style=for-the-badge)](https://www.gsmarena.com/oppo_r11-8644.php)
 [![OPPO R11s](https://img.shields.io/badge/-OPPO%20R11s-darkgreen?style=for-the-badge)](https://m.gsmarena.com/oppo_r11s-8911.php)
@@ -41,10 +45,10 @@ I'm **xxtvrxx233** **~~𝕏𝕏TVR𝕏𝕏233~~**
 
 
 - #### Android
-[![C16](https://img.shields.io/badge/ColorOS%2016-000000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros16/)
-[![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=oppo&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
-[![HarmonyOS4.2](https://img.shields.io/badge/HarmonyOS%204.2.0-DCDCDC?style=for-the-badge&logo=HUAWEI&logoColor=FFFFFF&labelColor=B22222)](https://consumer.huawei.com/cn/harmonyos-4)
-[![Waydroid](https://img.shields.io/badge/Waydroid-00C000?style=for-the-badge&logo=wayland&logoColor=FFFFFF&labelColor=F38404)](https://waydro.id/)
+[![C16](https://img.shields.io/badge/ColorOS%2016-000000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=000000)](https://www.coloros.com/version/coloros16/)
+[![C7](https://img.shields.io/badge/ColorOS%207-00C000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=00C000)](https://zh.m.wikipedia.org/zh-cn/ColorOS)
+[![HarmonyOS4.2](https://img.shields.io/badge/HarmonyOS%204.2.0-DCDCDC?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=B22222)](https://consumer.huawei.com/cn/harmonyos-4)
+[![Waydroid](https://img.shields.io/badge/Waydroid-F38404?style=for-the-badge&logo=wayland&logoColor=FFFFFF&labelColor=F38404)](https://waydro.id/)
  
 <!--
 **xxtvrxx233/xxtvrxx233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
