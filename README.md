@@ -24,6 +24,7 @@ port for GT Exp. Master [here](https://sourceforge.net/projects/realme-rmx3366-c
 [![Huawei MatePad Pro 10.8](https://img.shields.io/badge/Huawei%20MatePad%20Pro-10.8-DCDCDC?style=for-the-badge&logo=Huawei&logoColor=DCDCDC&labelColor=B22222)](https://m.vmall.com/product/10086452383776.html)
 [![iPad 6](https://img.shields.io/badge/ipad%206-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/)
 - #### Wearable devices
+[![Pixel Watch 2](https://img.shields.io/badge/Google%20Pixel%20Watch%202-000000?style=for-the-badge&logo=Google&logoColor=F8F8FF&labelColor=000000)](https://store.google.com/gb/magazine/pixel-watch-2)
 [![TicWatch Pro X](https://img.shields.io/badge/TicWatch%20Pro%20x-000000?style=for-the-badge&logo=WearOS&logoColor=F8F8FF&labelColor=000000)](https://www.ticstore.com/products/prox)
 [![OnePlus Buds 3](https://img.shields.io/badge/OnePlus%20Buds%203-000000?style=for-the-badge&logo=OnePlus&logoColor=ffffff&labelColor=FF0000)](https://www.oneplus.com/cn/oneplus-buds-3)
 
